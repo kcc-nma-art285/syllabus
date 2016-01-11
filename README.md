@@ -23,14 +23,14 @@ _Comment: ART 285 may not be audited._
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Course Objectives & Competencies](#course-objectives-&-competencies)
+- [Course Objectives & Competencies](#course-objectives--competencies)
 - [Course Content](#course-content)
 - [Topics addressed and content](#topics-addressed-and-content)
 - [Texts](#texts)
 - [Materials](#materials)
 - [Instructor's Expectation](#instructors-expectation)
 - [Method of Instruction](#method-of-instruction)
-- [Method of Evaluation & Grading Policy](#method-of-evaluation-&-grading-policy)
+- [Method of Evaluation & Grading Policy](#method-of-evaluation--grading-policy)
   - [500 Point Course Grading System](#500-point-course-grading-system)
 - [Special Student Services](#special-student-services)
 - [Student Conduct Code](#student-conduct-code)
