@@ -34,7 +34,7 @@ _Comment: ART 285 may not be audited._
   - [500 Point Course Grading System](#500-point-course-grading-system)
 - [Special Student Services](#special-student-services)
 - [Student Conduct Code](#student-conduct-code)
-- [This Class is a “Safe Zone”](#this-class-is-a-%E2%80%9Csafe-zone%E2%80%9D)
+- [This Class is a “Safe Zone”](#this-class-is-a-safe-zone)
 - [Schedule](#schedule)
 - [Week-by-Week](#week-by-week)
 - [Office Hours](#office-hours)
