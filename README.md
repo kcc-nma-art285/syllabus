@@ -63,6 +63,7 @@ aesthetic application.
 The general framework for this course is determined by the stages of the creative web design
 process for design and time-based media projects, consisting of Pre-Production (defining &
 drafting), Production (designing), and Post-Production (developing & delivering).
+
 1. **Pre-Production**
   - **The Definition Phase** (i.e. defining the project)
   - **The Drafting Phase** (i.e. project planning via drafting conceptual plans)
