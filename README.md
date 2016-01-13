@@ -82,8 +82,7 @@ branding, graphic symbolism, design mockups, interface programming, motion graph
 sound design, testing, printing, and quality assurance.
 
 Universal course content:
-- Exploration and application of contemporary topics in interface design and new media art
-based on need and purpose.
+- Exploration and application of contemporary topics in user interface design and new media art based on need and purpose.
 - Overview of the full design process for interface design via theory and practice of historical
 and contemporary issues in interface design and new media art.
 - Theory and application of researching and conceptual planning for large-scale works of
@@ -110,8 +109,8 @@ There are no required texts for this course. Readings will be supplied by the in
 to-week basis, in either paper handout form or online.
 
 Recommended, but not required texts:
-- MTIV: Process, Inspiration and Practice for the New Media Designer
-By Hillman Curtis
+- [About Face: The Essentials of Interaction Design](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118766571.html) by Alan Cooper
+- [Design is a Job](http://abookapart.com/products/design-is-a-job) by Mike Montiero
 
 ## Materials
 All students are required to have hosting space to post their assignments, internship
