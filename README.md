@@ -45,33 +45,33 @@ _Comment: ART 285 may not be audited._
 ## Course Objectives & Competencies
 Upon successful completion of ART 285, the student should be able to:
 - Through the creation of a large-scale new media art project, apply advanced concepts and
-principles of graphic design and interface design technologies.
+principles of graphic design and user interface design technologies.
 - Develop conceptual project ideas, plan a full production schedule, and execute all iterative
 steps and phases of the full design process by meeting project milestones and deadlines.
-- Apply theoretical and historically relevant principles of graphic design and interface design
+- Apply theoretical and historically relevant principles of graphic design and user interface design
 in the creation of new media art.
 - Apply successful problem-solving skills and make informed design decisions while utilizing
 industry standard applications, technologies, and techniques throughout the full creative
 and technical design process.
 - Communicate effectively, both visually and verbally, by presenting work, defending design
 decisions and by participating as an active critic during group critiques.
-- Synthesize the concepts, principles, skills, and techniques of interface design in the creation
+- Synthesize the concepts, principles, skills, and techniques of user interface design in the creation
 of a large-scale project that integrates conceptual thinking, technical execution, and
 aesthetic application.
 
 ## Course Content
-The general framework for this course is determined by the stages of the creative web design
-process for design and time-based media projects, consisting of Pre-Production (defining &
-drafting), Production (designing), and Post-Production (developing & delivering).
+The general framework for this course consists of a four stage process based on the user-centered design methodologies: Discovery, Design, Development, Delivery.
 
-1. **Pre-Production**
-  - **The Definition Phase** (i.e. defining the project)
-  - **The Drafting Phase** (i.e. project planning via drafting conceptual plans)
-2. **Production**
-  - **The Design Phase** (i.e. creation of all assets for the project)
-3. **Post-Production**
-  - **The Development Phase** (i.e. putting it all together, editing, & revising)
-  - **The Due Diligence Phase** (i.e. testing for final output/display)
+1. **Discovery**
+  - Defining the project
+  - User & business research
+  - Design strategy (ideation/prototyping)
+2. **Design**
+  - Conceptualizing, creating and refining assets for the project
+3. **Development**
+  - Coding/programming, editing, & revising
+4. **Delivery**
+  - Testing across various display formats/media
 
 ## Topics addressed and content
 Topics and Technologies will vary depending upon each student’s chosen project. Individual topics
