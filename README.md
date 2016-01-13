@@ -1,6 +1,6 @@
 # Interface Design Studio
 - **Course:** ART 285 | Kapiolani Community College, New Media Arts
-- **Class:** KOA 103 T/R: 06:00pm–8:30pm
+- **Class:** KOPIKO 202A M/W: 06:00pm–8:30pm
 - **Instructor:** Mike King, [mjking@hawaii.edu](mailto: mjking@hawaii.edu)
 - **Need help?**
   - [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kcc-nma-art285)
