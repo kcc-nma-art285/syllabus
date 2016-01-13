@@ -273,5 +273,5 @@ This semester my office hours are:
 ## Emergency Contact
 In the case of an emergency or if you are unable to get a hold of the instructor and have already
 tried contacting Mike via phone ([808-291-5971](tel: 808-291-5971)) and email ([mjking@hawaii.edu](mailto: mjking@hawaii.edu)), you can next
-contact the Arts & Humanities department chair, Colette Higgins, by phone ([808-734-9282](tel: 808-734-9282)) or
-email (chiggins@hawaii.edu).
+contact the Arts & Humanities department chair, Sharon Rowe, by phone ([808-734-9282](tel: 808-734-9282)) or
+email (srowe@hawaii.edu).
