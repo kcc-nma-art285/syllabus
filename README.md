@@ -240,13 +240,13 @@ through a 3-step creative design dictated as follows:
 studies, illustration, photography, shooting video, recording audio, testing code,
 graphical asset creation, visual mockups, and multiple rounds of refinement.
     - **Key Deliverables: Round 1 Designs, Round 2 Designs, Round 3 Designs**
-3. **Development (Weeks 11-15)**
+3. **Development (Weeks 11-16)**
   - _Coding, Editing, Printing, etc._
     - Depending upon the project, this may include coding and scripting (HTML, CSS,
 Javascript, JQuery, WordPress, etc), print tests (for 2D digital prints), editing
 video, animation, motion graphics, sound editing, scoring, and audio mastering.
     - **Key Deliverable: 1st Round Drafts, 2nd Round Drafts**
-4. **Delivery (Weeks 16-17)**
+4. **Delivery (Weeks 17)**
   - _Testing for Final Launch/Display_
     - Depending upon the project, this may include QA (Quality Assurance to sure all
 bugs are fixed, cross-browser/cross-platform/cross-device testing, etc.), final
@@ -258,8 +258,8 @@ final setup and display (for installation).
 - **Week 1-2:** Intro to the Course & Brainstorming
 - **Weeks 2-4:** Discovery
 - **Weeks 5-10:** Design
-- **Week 11:** NO CLASS - SPRING BREAK
-- **Weeks 12-16:** Development
+- **Weeks 11-16:** Development
+  - **Week 11:** NO CLASS - SPRING BREAK
 - **Week 17:** Delivery: Final Project Due at Final Critique
 
 ## Office Hours
