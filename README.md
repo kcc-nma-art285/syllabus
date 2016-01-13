@@ -64,6 +64,7 @@ The general framework for this course consists of a four stage process based on 
 
 1. **Discovery**
   - Defining the project
+    - Estimating the work
   - User & business research
   - Design strategy (ideation/prototyping)
 2. **Design**
@@ -72,6 +73,7 @@ The general framework for this course consists of a four stage process based on 
   - Coding/programming, editing, & revising
 4. **Delivery**
   - Testing across various display formats/media
+  - Presenting completed project to client
 
 ## Topics addressed and content
 Topics and Technologies will vary depending upon each student’s chosen project. Individual topics
@@ -114,14 +116,10 @@ Recommended, but not required texts:
 
 ## Materials
 All students are required to have hosting space to post their assignments, internship
-documentation, and ultimately their final presentation. Students are required to purchase a
-hosting plan with a third party hosting provider. Past students have purchased hosting plans from
-hosting providers such as Bluehost and GoDaddy (these are just a few of many hosting providers
-available). Plans should include ample disk space (ie. more than 2GB or unlimited), support for
-CGI, PHP, and MySQL, multiple domain hosting (to host more than one site), one-click
-install/support for popular CMS options (Wordpress, Joomla, Drupal, etc), and a low, competitive
-price (an example rate is around $3-$5/month – this is subject to change based upon current
-trends for hosting prices).
+documentation, and ultimately their final presentation. Students can purchase a
+hosting plan with a third party hosting provider or utilize Git & GitHub for free static site hosting (GitHub does not include domain name services). 
+
+Past students have purchased hosting plans from hosting providers such as Bluehost and GoDaddy (these are just a few of many hosting providers available). Plans should include ample disk space (ie. more than 2GB or unlimited), support for CGI, PHP, and MySQL, multiple domain hosting (to host more than one site), one-click install/support for popular CMS options (Wordpress, Joomla, Drupal, etc), and a low, competitive price (an example rate is around $3-$5/month – this is subject to change based upon current trends for hosting prices).
 
 Additional materials may include an external hard drive or thumbnail drive with a minimum
 capacity of 4 GB.
@@ -166,24 +164,25 @@ course grade. The 500 Points for the final course grade can be broken down as fo
 
 All Grades are available throughout the semester via Laulima
 
-**Pre-Production (Defining & Drafting)**
-- Design Brief: 50 Points
-- Concept Plans: 50 Points
+**Discovery**
+- Proposal & Estimate: 50 Points
+- Strategy & Concept Prototypes: 50 Points
 - Total: 100 Points
 
-**Production (Designing)**
+**Design**
 - Round 1 Designs: 40 Points
 - Round 2 Designs: 30 Points
 - Round 3 Designs: 30 Points
 - Total: 100 Points
 
-**Post-Production (Developing & Due Diligence)**
+**Development**
 - 1st Draft: 50 Points
 - 2nd Draft: 50 Points
 - Total: 100 Points
 
-**Final Project**
-- Posted online, Presented at Final Critique
+**Delivery**
+- Post Final Project online: 50 points
+- Presented at Final Critique: 50 points
 - Total: 100 Points
 
 **Class Participation**
