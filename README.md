@@ -2,6 +2,7 @@
 - **Course:** ART 285 | Kapiolani Community College, New Media Arts
 - **Class:** KOPIKO 202A M/W: 06:00pm–8:30pm
 - **Instructor:** Mike King, [mjking@hawaii.edu](mailto: mjking@hawaii.edu)
+- **Schedule:** [Google Calendar](https://www.google.com/calendar/embed?src=hawaii.edu_tddd77j40oj073f6vh5bjjgfls%40group.calendar.google.com&ctz=Pacific/Honolulu) / [iCal](https://www.google.com/calendar/ical/hawaii.edu_tddd77j40oj073f6vh5bjjgfls%40group.calendar.google.com/public/basic.ics)
 - **Need help?**
   - [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kcc-nma-art285)
     - *It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.*
@@ -224,8 +225,7 @@ Discriminatory or rude comments of any kind, particularly regarding gender, ethn
 orientation, or religion, will not be tolerated.
 
 ## Schedule
-Throughout the semester students will be developing one large-scale interface project by going
-through a 3-step creative design dictated as follows:
+Throughout the semester students will be developing one large-scale interface project by going through a 4-step creative design process dictated as follows:
 
 1. **Discovery (Weeks 1-4)**
   - _Project Kickoff and Research_
@@ -261,6 +261,8 @@ final setup and display (for installation).
 - **Weeks 11-16:** Development
   - **Week 11:** NO CLASS - SPRING BREAK
 - **Week 17:** Delivery: Final Project Due at Final Critique
+
+The week-by-week schedule along with deliverable (assignments) due dates is available via [Google Calendar](https://www.google.com/calendar/embed?src=hawaii.edu_tddd77j40oj073f6vh5bjjgfls%40group.calendar.google.com&ctz=Pacific/Honolulu) and [iCal](https://www.google.com/calendar/ical/hawaii.edu_tddd77j40oj073f6vh5bjjgfls%40group.calendar.google.com/public/basic.ics) as well.
 
 ## Office Hours
 Office hours are held in the computer labs, not at my office. They are operated on a first-some-
