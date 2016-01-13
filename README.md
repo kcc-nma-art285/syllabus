@@ -268,7 +268,7 @@ first-served basis and organized via a sign-up sheet on the whiteboard at the be
 hours.
 
 This semester my office hours are:
-- Thursdays 8:30pm-9:30pm in Koa 103 or by appointment
+- Wednesdays 8:30pm-9:30pm in Kopiko 202A or by appointment
 
 ## Emergency Contact
 In the case of an emergency or if you are unable to get a hold of the instructor and have already
